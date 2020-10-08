@@ -1,4 +1,5 @@
 import React from 'react';
+import card1 from '../assets/img/card_1.jpg';
 
 class CountryCards extends React.Component {
   render(){
@@ -7,16 +8,33 @@ class CountryCards extends React.Component {
         <div className="container">
           <div className="row">
             <div className="col-md-3">
-              <h2>Card 1</h2>
+             <div className='card'>
+             <img src={card1}/>
+              <div className='card-body'>
+
+              </div>
+             </div> 
             </div>
             <div className="col-md-3">
-              <h2>Card 2</h2>
+              <div className='card'>
+              <div className='card-body'>
+              
+              </div>
+             </div>
             </div>
             <div className="col-md-3">
-              <h2>Card 3</h2>
+              <div className='card'>
+              <div className='card-body'>
+              
+              </div>
+             </div>
             </div>
             <div className="col-md-3">
-              <h2>Card 5</h2>
+              <div className='card'>
+              <div className='card-body'>
+              
+              </div>
+             </div>
             </div>
           </div>
         </div>      
