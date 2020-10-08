@@ -1,5 +1,4 @@
 import React from 'react';
-import card1 from 'https://ibb.co/c2B1CR6';
 
 class CountryCards extends React.Component {
   render(){
@@ -9,7 +8,7 @@ class CountryCards extends React.Component {
           <div className="row">
             <div className="col-md-3">
              <div className='card'>
-             <img src='https://www.w3schools.com/images/lamp.jpg'/>
+             <img src="https://ibb.co/qdnPzv0"/>
               <div className='card-body'>
 
               </div>
