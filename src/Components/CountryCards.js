@@ -8,9 +8,8 @@ class CountryCards extends React.Component {
           <div className="row">
             <div className="col-md-3">
              <div className='card'>
-             <img src="https://ibb.co/qdnPzv0"/>
+             <img src="https://www.w3schools.com/tags/img_girl.jpg"/>
               <div className='card-body'>
-
               </div>
              </div> 
             </div>
