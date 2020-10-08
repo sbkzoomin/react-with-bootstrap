@@ -16,7 +16,7 @@ class CountryCards extends React.Component {
               <h2>Card 3</h2>
             </div>
             <div className="col-md-3">
-              <h2>Card 4</h2>
+              <h2>Card 5</h2>
             </div>
           </div>
         </div>      
