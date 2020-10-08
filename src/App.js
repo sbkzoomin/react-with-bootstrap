@@ -1,7 +1,13 @@
 import React from "react";
 
-export default function App() {
+function App() {
   return (
-      <button className="btn btn-warning">Login</button> 
+    <div className='App'>
+      <nav className='navbar navbar-dark bg-primary'>
+        <a href="#" className='navbar-brand'>React JS with Bootstrap</a>
+      </nav>
+    </div>
   );
 }
+
+export default App;
