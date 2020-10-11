@@ -10,6 +10,6 @@ function App() {
       <CountryCards></CountryCards>
     </div>
   );
-}
+};
 
 export default App;
